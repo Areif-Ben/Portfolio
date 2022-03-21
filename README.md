@@ -5,7 +5,7 @@
 * Bachelors of Information and Communication Technology (Software Developer), *Swinburne University*, 2020-Current
 
 # [Project 1: Framingham Case Study](https://colab.research.google.com/drive/1vld9f8b6oj8PJ8KpK6MftD2noC2AG9q9?usp=sharing#scrollTo=H7AENigly2Ir)
-![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![crypto sentiment analysis](https://github.com/Areif-Ben/Portfolio/blob/master/heatmap_framingham.png?raw=true)
 
 
 The Framingham Heart Study was a turning point in identifying the risk factors of heart disease, and is one of the most important epidemiological studies conducted.
