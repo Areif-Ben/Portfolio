@@ -1,4 +1,4 @@
-# Benjamin Arif's Portfolio  
+# Benjamin Arif
 *An Aspiring Data Analyst | Scientist*
 
 # Education
