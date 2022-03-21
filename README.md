@@ -19,3 +19,11 @@ Dataset source : https://www.kaggle.com/datasets/captainozlem/framingham-chd-pre
 
 With independent variables such as gender, tenure, and opt-in business services such as phone lines and internet services, the goal is to accurately identify customers who may churn. Customer retention and revenue generated from retention, re-subscription, and even cross-selling revenues contribute to the total customer lifetime value, which can be measured (LTV). The system's success could be measured by examining the model's accuracy in predicting whether or not a customer will churn. The model's ultimate goal is to help telcos drive revenue and profit. <br> <br>
 Dataset source : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
+# [Project 3: Social Media Ads Forecast](https://colab.research.google.com/drive/1CzjJtt_FHxkkiMXfFMuIRaVjJ-5QXqXN?usp=sharing)
+![crypto trading bot](https://github.com/Areif-Ben/Portfolio/blob/master/telco_churn.png?raw=true)
+<br>
+
+With independent variables such as gender, tenure, and opt-in business services such as phone lines and internet services, the goal is to accurately identify customers who may churn. Customer retention and revenue generated from retention, re-subscription, and even cross-selling revenues contribute to the total customer lifetime value, which can be measured (LTV). The system's success could be measured by examining the model's accuracy in predicting whether or not a customer will churn. The model's ultimate goal is to help telcos drive revenue and profit. <br> <br>
+Dataset source : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
