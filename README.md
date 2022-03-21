@@ -1,4 +1,4 @@
-# Benjamin Arif
+## Benjamin Arif
 *An Aspiring Data Analyst | Scientist*
 
 # Education
