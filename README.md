@@ -1,6 +1,3 @@
-## Benjamin Arif
-*An Aspiring Data Analyst | Scientist*
-
 # Education
 * Bachelors of Information and Communication Technology (Software Developer), *Swinburne University*, 2020-Current
 * Higher National Diploma of Electrical & Electronic Engineering, *International College of Advanced Technology Sarawak*, 2016-2018
