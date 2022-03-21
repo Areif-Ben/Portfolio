@@ -13,12 +13,8 @@ I attempted to build a decision tree classifier in Python that can predict the t
 Dataset source : https://www.kaggle.com/datasets/captainozlem/framingham-chd-preprocessed-data
 
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Project 2: Predicting Telco Customer Churn](https://colab.research.google.com/drive/16VFz131h1Fs2BtAbfn6-Om1nFbkMEjhL?usp=sharing#scrollTo=gFnMrOKfE1FB)
 ![crypto trading bot](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+With independent variables such as gender, tenure, and opt-in business services such as phone lines and internet services, the goal is to accurately identify customers who may churn. Customer retention and revenue generated from retention, re-subscription, and even cross-selling revenues contribute to the total customer lifetime value, which can be measured (LTV). The system's success could be measured by examining the model's accuracy in predicting whether or not a customer will churn. The model's ultimate goal is to help telcos drive revenue and profit.
+Dataset source : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
