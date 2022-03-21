@@ -2,7 +2,7 @@
 *An Aspiring Data Analyst | Scientist*
 
 # Education
-* Bachelors of Information and Communication Technology (Software Developer), *Swinburne University*, 2012-2016
+* Bachelors of Information and Communication Technology (Software Developer), *Swinburne University*, 2020-Current
 
 # [Project 1: Framingham Case Study](https://colab.research.google.com/drive/1vld9f8b6oj8PJ8KpK6MftD2noC2AG9q9?usp=sharing#scrollTo=H7AENigly2Ir)
 ![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
