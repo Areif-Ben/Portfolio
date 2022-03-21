@@ -30,7 +30,7 @@ Strategy and marketing are like bread and butter, and choosing the right channel
 Dataset source : https://github.com/theleadio/datascience_demo/blob/master/social_ads.csv
 
 # [Project 4: Sentiment Analysis on Steam reviews](https://colab.research.google.com/drive/1CzjJtt_FHxkkiMXfFMuIRaVjJ-5QXqXN?usp=sharing)
-![Linear Regression Graph](https://github.com/Areif-Ben/Portfolio/blob/master/social_ads.png?raw=true)
+![Reviews Word Cloud](https://github.com/Areif-Ben/Portfolio/blob/master/steam_reviewsentiment.PNG?raw=true)
 <br>
 
 Steam is a digital distribution platform designed specifically for gamers and game developers. While it was initially limited to PC games, the platform quickly expanded to include home video game consoles such as the Xbox and Sony PlayStation. Companies can use text analysis to learn how their customers feel about their brands and products, as well as whether specific reviews are positive or negative, and which topics customers mention and why. Keeping an eye on feedback and sentiments allows businesses to identify pain points, areas for improvement, and new opportunities.
@@ -38,11 +38,11 @@ Steam is a digital distribution platform designed specifically for gamers and ga
 Dataset source : https://www.kaggle.com/datasets/arashnic/game-review-dataset
 
 # [Project 5: Human Resource Dashboard](https://datastudio.google.com/reporting/b637847b-4938-42ed-97d9-e3c3e33bd453)
-![Linear Regression Graph](https://github.com/Areif-Ben/Portfolio/blob/master/social_ads.png?raw=true)
+![HR Dashboard](https://github.com/Areif-Ben/Portfolio/blob/master/hr_dashboard.PNG?raw=true)
 <br>
 
 The number of people who quit is critical to a company's success. Employees are an important part of any business, so having a high turnover rate could be dangerous. Understanding what motivates people can help organisations save money by retaining key employees.
 <br> <br>
-Dataset source : https://www.kaggle.com/datasets/arashnic/game-review-dataset
+Dataset source : https://www.kaggle.com/datasets/giripujar/hr-analytics
 
 
