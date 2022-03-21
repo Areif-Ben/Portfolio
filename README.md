@@ -1,4 +1,4 @@
-# Benjamin Arif
+# Benjamin Arif Johin
 *An Aspiring Data Analyst | Scientist*
 
 # Education
