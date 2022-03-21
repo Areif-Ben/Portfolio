@@ -3,6 +3,7 @@
 
 # Education
 * Bachelors of Information and Communication Technology (Software Developer), *Swinburne University*, 2020-Current
+* Higher National Diploma of Electrical & Electronic Engineering, *International College of Advanced Technology Sarawak*, 2016-2018
 
 # [Project 1: Framingham Case Study](https://colab.research.google.com/drive/1vld9f8b6oj8PJ8KpK6MftD2noC2AG9q9?usp=sharing#scrollTo=H7AENigly2Ir)
 ![Corelation for 10 year risks of CHD](https://github.com/Areif-Ben/Portfolio/blob/master/heatmap_framingham.png?raw=true)
