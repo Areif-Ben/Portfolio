@@ -1,4 +1,5 @@
-## Benjamin Arif <br> An Aspiring Data Analyst | Scientist
+## Benjamin Arif's Portfolio  
+*An Aspiring Data Analyst | Scientist*
 
 # Education
 * Bachelors of Information and Communication Technology (Software Developer), *Swinburne University*, 2020-Current
