@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Benjamin Arif</title>
+    <link>https://areif-ben.github.io/Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Benjamin Arif</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://areif-ben.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://areif-ben.github.io/Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areif-ben.github.io/Portfolio/about/</guid>
+      <description>My name is Benjamin Arif and I&amp;rsquo;m a final year student studying ICT(Information and Communication Technology). I&amp;rsquo;ve been interested in data recently after exploring into some fields such as web design and UI/UX design. From those, I was able to learn about data visualization and end up wanted to get into analytics. I got into SQL and that&amp;rsquo;s where my interest piqued even more since I played around with queries and combining data.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://areif-ben.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areif-ben.github.io/Portfolio/contact/</guid>
+      <description>You can find me on these social platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/benjamin-arif-johin-357b67195/   Github: https://github.com/Areif-Ben    </description>
+    </item>
+    
+    <item>
+      <title>Framingham Case Study</title>
+      <link>https://areif-ben.github.io/Portfolio/post/framingham-case-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areif-ben.github.io/Portfolio/post/framingham-case-study/</guid>
+      <description>The Framingham Heart Study was a turning point in identifying the risk factors of heart disease, and is one of the most important epidemiological studies conducted. I attempt to build a decision tree classifier in Python that can predict the ten year risk of a patient developing CHD, given certain risk factors.
+ Link to this notebook
+Dataset Source</description>
+    </item>
+    
+    <item>
+      <title>Human Resource Dashboard</title>
+      <link>https://areif-ben.github.io/Portfolio/post/human-resource-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areif-ben.github.io/Portfolio/post/human-resource-dashboard/</guid>
+      <description>The number of people who quit is critical to a company&amp;rsquo;s success. Employees are an important part of any business, so having a high turnover rate could be dangerous. Understanding what motivates people can help organisations save money by retaining key employees.
+ Link to dashboard
+Dataset Source</description>
+    </item>
+    
+    <item>
+      <title>Predicting Telco Customer Churn</title>
+      <link>https://areif-ben.github.io/Portfolio/post/telco-churn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areif-ben.github.io/Portfolio/post/telco-churn/</guid>
+      <description>With independent variables such as gender, tenure, and opt-in business services such as phone lines and internet services, the goal is to accurately identify customers who may churn. Customer retention and revenue generated from retention, re-subscription, and even cross-selling revenues contribute to the total customer lifetime value, which can be measured (LTV). The system&amp;rsquo;s success could be measured by examining the model&amp;rsquo;s accuracy in predicting whether or not a customer will churn.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis on Steam reviews</title>
+      <link>https://areif-ben.github.io/Portfolio/post/sentiment-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areif-ben.github.io/Portfolio/post/sentiment-analysis/</guid>
+      <description>Steam is a digital distribution platform designed specifically for gamers and game developers. While it was initially limited to PC games, the platform quickly expanded to include home video game consoles such as the Xbox and Sony PlayStation. Companies can use text analysis to learn how their customers feel about their brands and products, as well as whether specific reviews are positive or negative, and which topics customers mention and why.</description>
+    </item>
+    
+    <item>
+      <title>Social Network Ads Forecast</title>
+      <link>https://areif-ben.github.io/Portfolio/post/social-network-ads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areif-ben.github.io/Portfolio/post/social-network-ads/</guid>
+      <description>With independent variables such as gender, tenure, and opt-in business services such as phone lines and internet services, the goal is to accurately identify customers who may churn. Customer retention and revenue generated from retention, re-subscription, and even cross-selling revenues contribute to the total customer lifetime value, which can be measured (LTV). The system&amp;rsquo;s success could be measured by examining the model&amp;rsquo;s accuracy in predicting whether or not a customer will churn.</description>
+    </item>
+    
+  </channel>
+</rss>
